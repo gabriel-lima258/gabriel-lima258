@@ -14,6 +14,16 @@
 
 <img align="right" alt="" height="190px" src="study.gif">
 
+<div style="text-align: center;" align="left">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-lima258&show_icons=true&theme=chartreuse-dark)
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima258&layout=compact&theme=chartreuse-dark)
+
+#
+
 <h3 align="left">🛠️ Skills </h3>
 
 <p align="left">
@@ -32,18 +42,8 @@
 <a href = "mailto:gabriel58221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-lima-5366ba164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-#
-
-<div style="text-align: center;" align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-lima258&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima258&layout=compact&theme=chartreuse-dark)
-
-<br>  
-
-<h3>Activities</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-lima258&custom_title=Minhas%20Contribuições&hide_border=true&theme=redical&bg_color=000&line=70e000&days=15&hide_title=true)](https://github.com/gabriel-lima258/github-readme-activity-graph)
+</div>
 
 
-<div align="left">
+
+
