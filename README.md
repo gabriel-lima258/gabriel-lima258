@@ -1,20 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&height=120&section=header"/>
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Londrina Sketch&size=44&pause=2000&multiline=true&repeat=false&random=false&width=435&lines=Hello%2C+I'm+Gabriel." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=32&pause=1000&color=70e000&center=true&vCenter=true&random=false&width=524&lines=Hello! I am Gabriel+" alt="Typing SVG">
+  </a>
 </div>
 
-##
+<img align="center" alt="Coding" src="https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif">
 
-<div align="left">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-lima258&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima258&layout=compact&theme=chartreuse-dark)
-</div>
+#
 
-##
+<p align="center">I am a Software Engineer with a specialization in Requirements and Testing and a passion for Full Stack Development. My journey began at the University of Brasilia, where I have been leading innovative projects since the first steps in my career.</p>
 
-### 🛠️ Skills 
+#
+
+<h3 align="left">🛠️ Skills </h3>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -26,17 +24,24 @@
 <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
-##
+<h3 align="left">🌎 Social Media</h3>
 
-### 🌎 Social Media
-<div> 
-  <a href="https://www.instagram.com/gabriel_lim4__/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel58221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-lima-5366ba164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://www.instagram.com/gabriel_lim4__/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabriel58221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-lima-5366ba164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+#
+
+<div style="text-align: center;" align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-lima258&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima258&layout=compact&theme=chartreuse-dark)
+
+<br>  
+
+<h3>Activities</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-lima258&custom_title=Minhas%20Contribuições&hide_border=true&theme=redical&bg_color=000&line=70e000&days=15&hide_title=true)](https://github.com/gabriel-lima258/github-readme-activity-graph)
 
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&height=120&section=footer"/>
-
+<div align="left">
