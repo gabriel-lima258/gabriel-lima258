@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="study.gif">
+<img align="right" alt="" height="190px" src="study-time.gif">
 
 <div style="text-align: center;" align="left">
   
