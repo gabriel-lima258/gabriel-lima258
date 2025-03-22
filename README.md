@@ -38,7 +38,7 @@ One of biggest project that I've done was <a href="https://github.com/unb-mds/20
 <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
-<h3 align="left">🌎 Social Media</h3>
+<h3 align="left">🌎 Social Media </h3>
 
 <a href = "mailto:gabriel58221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-lima-5366ba164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
