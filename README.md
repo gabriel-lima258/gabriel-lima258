@@ -9,7 +9,6 @@
 #
 
 <p align="center">I am a Software Engineer with a specialization in Requirements and Testing and a passion for Full Stack Development. My journey began at the University of Brasilia, where I have been leading innovative projects since the first steps in my career.
-One of biggest project that I've done was <a href="https://github.com/unb-mds/2024-2-Squad02">Urbanize</a>
 </p>
 
 #
