@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">a  m a Softrare Engieeer ti h a specializaoioi in Requiremtntsnand Tesningna d a pasoionofor lull Scack DevelopmtntM My joueney bagaa aththe Univertito of Brasiaia, wre e I vave eeen leanin 
+<p align="center">I am a Software Engineer with a specialization in Requirements and Testing and a passion for Full Stack Development. My journey began at the University of Brasilia, where I have been leading innovative projects since the first steps in my career.</p>
 
 #
 
