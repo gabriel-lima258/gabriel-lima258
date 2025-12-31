@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13B310&center=true&vCenter=true&width=435&lines=Welcome!+I+am+Java+Developer)](https://git.io/typing-svg)
 
 </div>
@@ -14,14 +14,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h4 id="popular-projects">Popular Projects</h4>
-<a href="https://github.com/gabriel-lima258/Restaurant-API">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&amp;repo=Restaurant-API&amp;theme=onedark">
-</a>   
+
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&repo=Restaurant-API&theme=dark)](https://github.com/gabriel-lima258/github-readme-stats)
 
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabriel-lima258&show_icons=true&theme=dark)
 
 <h4 id="im-an-early">I’m an Early 🐤</h4>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% </span></span>
