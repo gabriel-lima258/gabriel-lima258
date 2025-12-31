@@ -36,7 +36,7 @@
 <span class="line"><span>GitHub &amp; Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>🔥 Editors:</span></span>
-<span class="line"><span>VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% </span></span>
+<span class="line"><span>IntelliJ                 4 Hours            ██████████████░░░░░░░░░░░   50% </span></span>
 <span class="line"><span>Cursor                   1 Hour             ██████████████░░░░░░░░░░░   50%</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>💻 Operating System:</span></span>
