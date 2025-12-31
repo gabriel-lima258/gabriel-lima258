@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h4 id="popular-projects">Popular Projects</h4>
-<a href="[https://github.com/gabriel-lima258/Restaurant-API]">
+<a href="https://github.com/gabriel-lima258/Restaurant-API">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&amp;repo=Restaurant-API&amp;theme=onedark">
 </a>   
