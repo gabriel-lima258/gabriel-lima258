@@ -15,7 +15,7 @@
 
 <h4 id="popular-projects">Popular Projects</h4>
 
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&repo=Restaurant-API&theme=dark)](https://github.com/gabriel-lima258/github-readme-stats)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&repo=algashop-metaI&theme=dark)](https://github.com/gabriel-lima258/github-readme-stats)
 
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -28,7 +28,7 @@
 <span class="line"><span>🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% </span></span>
 <span class="line"><span>🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%</span></span></code></pre>
 <h4 id="i-spent-my-time-on">I Spent My Time On</h4>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>💬 Programming Lanuages:</span></span>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>💬 Programming Languages:</span></span>
 <span class="line"><span>Java                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% </span></span>
 <span class="line"><span>React                    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% </span></span>
 <span class="line"><span>Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% </span></span>
