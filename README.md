@@ -15,7 +15,7 @@
 
 <h4 id="popular-projects">Popular Projects</h4>
 
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&repo=algashop-metaI&theme=dark)](https://github.com/gabriel-lima258/github-readme-stats)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabriel-lima258&repo=algashop-meta&theme=dark)](https://github.com/gabriel-lima258/github-readme-stats)
 
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
